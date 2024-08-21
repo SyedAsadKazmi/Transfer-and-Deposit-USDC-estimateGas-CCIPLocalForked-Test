@@ -7,3 +7,6 @@
     ```bash
     forge test --mt test_Fork -vvv
     ```
+3. Output:
+
+![test_Fork()-screenshot](./img/test_Fork()-screenshot.png)
